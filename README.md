@@ -1,3 +1,6 @@
+Note:
+This project is derived from a tutorial series by App Brewery. The content following this note is adapted from the original README by App Brewery, and is retained for reference purposes
+
 Copyright 2022 London App Brewery LTD (www.appbrewery.com)
 
 The code in this tutorial project is licended under the Apache License, Version 2.0 (the "License");
